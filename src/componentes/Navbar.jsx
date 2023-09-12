@@ -7,10 +7,10 @@ export default function Navigation() {
     <Navbar bg="danger" data-bs-theme="dark">
       <Container>
         <div>
-          <Link to="/" className="text-decoration-none text-white p-2">
+          <Link to="/desafio1-happycake" className="text-decoration-none text-white p-2">
             🏠 Home
           </Link>
-          <Link to="/contacto" className="text-decoration-none text-white p-2">
+          <Link to="/desafio1-happycake/contacto" className="text-decoration-none text-white p-2">
             📙 Contacto
           </Link>
         </div>
